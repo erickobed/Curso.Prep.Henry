@@ -1,0 +1,21 @@
+			
+			.img {
+				height: 300px;
+				windth: 400px;
+			}
+			#thirdDiv {
+				height: 600px;
+				windth: 500px;
+				background-color: yellow;
+				padding: 50px;
+				border: 5px;
+			}
+
+			#spanId {
+			font-size: 18px;
+			margin: 50px;
+			}
+			ul {
+				font-size: 35px;
+			}
+			
